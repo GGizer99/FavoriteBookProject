@@ -1,0 +1,5 @@
+1,80 Günde Devrialem,Noval,Jules Verne,No award,1,2006,200,Travel adventure entertainment
+2,Harry Potter ve Felsefe Taşı,Science Fiction,"JK Rowling",No award,4,2018,320,Magic extraordinary powers
+3,Yüzyıllık Yalnızlık,Noval,Gabriel García Márquez,Nobel Prize,2,2020,200,A fast-read book with true stories and an award
+4,Kırmızı Saçlı Kadın,Noval,Orhan Pamuk,Nobel Prize,3,2020,240,My book I read in 2 days with love stories
+5,Vampir Prens,Noval,Darren Shan,No award,5,2012,324,There were moments when I got emotional while reading
